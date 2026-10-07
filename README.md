@@ -18,7 +18,7 @@ Sou estudante de informática para internet, busco de transformar aprendizado em
 # Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,docker,react" alt="Minhas Habilidades" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,docker,react,python" alt="Minhas Habilidades" />
 </p>
 
 ---
